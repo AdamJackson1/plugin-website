@@ -5,9 +5,16 @@
 	margin-top:-10px;
 	margin-right:-10px;
 	margin-left:-10px;
+}
+.bg{
+    max-width: 100%;
+    height: auto;
+    width: auto\9;
+
 
 }
+
 body {
-	overflow:hidden;
+
 	overflow-x:hidden;
 }
