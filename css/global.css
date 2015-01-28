@@ -1,11 +1,13 @@
 #block{
-	width:105%;
+	width:auto;
 	height:150px;
 	background-color:magenta;
-	margin-left:-1%;
-	margin-top:-1%;
+	margin-top:-10px;
+	margin-right:-10px;
+	margin-left:-10px;
 
 }
 body {
 	overflow:hidden;
+	overflow-x:hidden;
 }
