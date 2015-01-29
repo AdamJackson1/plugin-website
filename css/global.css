@@ -6,15 +6,15 @@
 	z-index:1;
 	position:relative;
 	opacity:0.6;
-	visibility:hidden;
+	display:none;
 }
 .bg{
     height:100.2%;
     width:101%;
     margin:-10px -10px -10px -10px;
     z-index:-1;
-    position:relative;
     position:fixed;
+  
 }
 
 body {
