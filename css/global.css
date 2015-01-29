@@ -7,6 +7,7 @@
 	opacity:0.6;
 	position:fixed;
 	top:0;
+	display:;
 
 
 
@@ -15,7 +16,7 @@
 .bg{
     height:100.2%;
     width:101%;
-    margin:-500px -10px -10px -10px;
+    margin:-1500px -10px -10px -10px;
     z-index:-1;
     position:fixed;
 
@@ -28,7 +29,8 @@ body {
 	width:auto;
 	height:150px;
 	background-color:grey;
-	margin:500px -10px -10px -10px;
+	margin:1500px -10px -10px -10px;
     opacity:0.6;
+    z-index:2;
 
 }
