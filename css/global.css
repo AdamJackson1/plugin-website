@@ -2,19 +2,30 @@
 	width:auto;
 	height:150px;
 	background-color:magenta;
-	margin-top:-10px;
+	margin-top:-px;
 	margin-right:-10px;
 	margin-left:-10px;
+	z-index:1;
+	position:relative;
 }
 .bg{
-    max-width: 100%;
-    height: auto;
-    width: auto\9;
-
+    height:100.2%;
+    width:101%;
+    margin:-10px -10px -10px -10px;
+    z-index:-1;
+    position:relative;
+    position:fixed;
 
 }
 
 body {
-
 	overflow-x:hidden;
+}
+#block1{
+	width:auto;
+	height:150px;
+	background-color:magenta;
+	margin-top:1000px;
+	margin-right:-10px;
+	margin-left:-10px;
 }
