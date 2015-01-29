@@ -1,13 +1,13 @@
 #block{
-	width:auto;
+	width:101%;
 	height:150px;
 	background-color:grey;
 	margin:0px 0px -10px -10px;
 	z-index:0;
 	opacity:0.6;
 	position:fixed;
-	top:0px;
-	left:0px;
+	top:0;
+
 
 
 
