@@ -9,6 +9,7 @@
 
 }
 .bg{
+<<<<<<< HEAD
     height:100.2%;
     width:101%;
     margin:-10px -10px -10px -10px;
@@ -16,6 +17,15 @@
  	visibility:visible;
     position:fixed;
     position:relative;
+=======
+	height:100.2%;
+	width:101%;
+	margin:-10px -10px -10px -10px;
+	z-index:-1;
+	visibility:visible;
+	position:fixed;
+	position:relative;
+>>>>>>> f5459750b56dd3e155ecba565d818109d7e3ed82
 }
 
 body {
@@ -26,6 +36,11 @@ body {
 	height:150px;
 	background-color:grey;
 	margin:600px -10px -10px -10px;
+<<<<<<< HEAD
     opacity:0.6;
     position:relative;
+=======
+	opacity:0.6;
+	position:relative;
+>>>>>>> f5459750b56dd3e155ecba565d818109d7e3ed82
 }
