@@ -1,12 +1,11 @@
 #block{
 	width:auto;
 	height:150px;
-	background-color:magenta;
-	margin-top:-px;
-	margin-right:-10px;
-	margin-left:-10px;
+	background-color:grey;
+	margin:-10px -10px -10px -10px;
 	z-index:1;
 	position:relative;
+	opacity:0.6;
 }
 .bg{
     height:100.2%;
@@ -15,6 +14,11 @@
     z-index:-1;
     position:relative;
     position:fixed;
+    -webkit-filter: blur(2px);
+    -moz-filter: blur(2px);
+    -o-filter: blur(2px);
+    -ms-filter: blur(2px);
+    filter: blur(2px);
 
 }
 
@@ -24,8 +28,7 @@ body {
 #block1{
 	width:auto;
 	height:150px;
-	background-color:magenta;
-	margin-top:1000px;
-	margin-right:-10px;
-	margin-left:-10px;
+	background-color:grey;
+	margin:1000px -10px -10px -10px;
+    opacity:0.6;
 }
