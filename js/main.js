@@ -7,8 +7,9 @@ $(document).ready(function(){
 	//	console.log(height);
 
 	if(height >= 148){
-	console.log("Showing!");
-		$('#block').fadeIn();
+		$('#block').fadeIn(800);
+	}else{
+		$('#block').fadeOut(600);
 	}
 
 });
