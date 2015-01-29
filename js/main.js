@@ -7,9 +7,9 @@ $(document).ready(function(){
 	//	console.log(height);
 
 	if(height >= 148){
-		$('#block').fadeIn(800);
+		$('#block').fadeIn(300);
 	}else{
-		$('#block').fadeOut(600);
+		$('#block').fadeOut(200);
 	}
 
 });
