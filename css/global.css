@@ -6,6 +6,7 @@
 	z-index:1;
 	position:relative;
 	opacity:0.6;
+	visibility:hidden;
 }
 .bg{
     height:100.2%;
