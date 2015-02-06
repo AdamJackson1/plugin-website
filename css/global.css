@@ -28,5 +28,20 @@ body {
 	margin:1500px -10px -10px -10px;
     opacity:0.6;
     z-index:2;
+}
+.n{
+	font-family:"Pacifico";
+	z-index:3;
+	color:white;
+	font-size:60px;
+	margin-top:-1500px;
+	text-align:center;
+	margin-bottom:0px;
+
+}
+.b{
+	margin-top:-200px;
+	position:absolute;
+
 
 }
