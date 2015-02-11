@@ -78,10 +78,9 @@ h1{
 
 }
 .fa-chevron-down{
-	position:absolute;
-	left:50%;
-	top:50%;
+
 	font-size: 40px;
+	padding-top: 20px;
 }
 
 #arrow-d{
@@ -89,18 +88,23 @@ h1{
 	height:80px;
 	width:80px;
 	position:absolute;
-
+	text-align: center;
 	left:50%;
 	bottom:0px;
-
+	font-size: 30px;
     border-radius: 15px;
+
+
 
 }#arrow-d:hover{
 	background-color:#34495e;
 	height:80px;
 	width:80px;
 	position:absolute;
-
+	font-size: 30px;
 	left:50%;
 	bottom:0px;
+	text-align: center;
+	cursor: pointer;
 }
+
